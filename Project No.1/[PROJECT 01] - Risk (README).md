@@ -29,14 +29,13 @@ _Outline the workflow you used in your project. What are the steps you went thro
 Our team organized our work through the Jira Software. We first shared resources and to do issues on the platform, which allowed us to be more familiar with the game machanism and to better distribute the tasks. After a short period of divised work, we got together to discuss our current state and the problem at stake. Jira facilitated us to share our on-going work with the other team members. It also made it possible for us to access the ever-developing codes and participate in the revision job. Finally, thanks to Jira, we make the preparation of the presentation much easier.
 
 What does your repository look like? Explain your folder and file structure.
-Our repository called ***Ironhack_GitHub*** which contains a folder called **Project No.1**. That folder has 6 files where you can find everything related about the said project. <br>
+Our repository called ***Ironhack_GitHub*** which contains a folder called **Project No.1**. That folder has 5 files where you can find everything related about the said project. <br>
 Each file is organize by it's **parent name** (*Project No.*), followed by the **project's name**, and finally the **kind of file**. Here are the complete list of our deliverables:
 1. README file for GitHub readers (guide and overview)
 2. JIRA Kanban board screenshot
 3. PDF document defining the project plan
 4. PNG file for the game's algorithm (flowchart)
 5. Pseudocode and Python code for the game simulator
-6. Presentation (slides)
 
 ## Links
 Here are the links if you want to know more about the project and its whole process. Feel free to browse and surf around!
