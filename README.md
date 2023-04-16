@@ -43,4 +43,4 @@ Here are the links if you want to know more about the project and its whole proc
 
 - GitHub [Repository](https://github.com/KatrinaJMD/IronHack_GitHub.git)  
 - Presentation [Slides](https://www.canva.com/design/DAFgNUnnOU4/zmPf7wwokw32n-ax0ZIlHQ/view#1)  
-- [Jira](https://sidechix.atlassian.net/jira/software/projects/DA/boards/1)  
+- Kanban (agile) board[Jira](https://sidechix.atlassian.net/jira/software/projects/DA/boards/1)  
