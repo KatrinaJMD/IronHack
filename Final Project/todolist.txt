@@ -1,0 +1,10 @@
+COMPLETE LABS
+
+1. Completed
+2. Completed
+3. Completed
+4. Lab_15_Stack-API
+5. Lab_16_Web-Scraping
+6. Completed
+7. Completed
+8. Lab_27_Advanced-Tableau
